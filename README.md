@@ -3,8 +3,9 @@ Copy To_Clipboard Use JavaScript Function </br>
 Github Pages URL- https://jaber-it.github.io/Copy_To_Clipboard_Use_JavaScript_Function/ </br></br></br>
 
 
-	<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js?lang=css&amp;skin=sunburst">
-	</script>
+<img src="https://github.com/jABER-IT/Copy_To_Clipboard_Use_JavaScript_Function/blob/main/Copy%20To%20Clipboard%20Finial%20Code%202.PNG"/>
+
+
 <div class="K2_CBox">
 		<div class="CB_Heading">
 			<span>Paste The Following Code</span> <button class="C_box_main" type="button"><i class="CBox_icn"></i></button>
